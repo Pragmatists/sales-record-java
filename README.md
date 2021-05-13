@@ -6,7 +6,7 @@ Bonus Calculator
 ### Indywidualny bonus dla sprzedawcy
 
 Zadanie polega na zaimplementowaniu funkcjonalności do zapisu rejestru sprzedaży w celu wyliczenia bonusu jaki otrzyma sprzedawca w danym miesiącu.
-Kązdy sprzedawca ma ustalony plan sprzedażowy. Od sprzedarzy która przekroczy plan dostaje bonus, wyliczonyna podstawie prowizji, pomniejszony o podatek: 
+Każdy sprzedawca ma ustalony plan sprzedażowy. Od sprzedaży która przekroczy plan dostaje bonus, wyliczony na podstawie prowizji, pomniejszony o podatek: 
 
 *Konfiguracja*
 
